@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "214977880251",
+    "project_id": "dumy-507a9",
+    "storage_bucket": "dumy-507a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214977880251:android:4d29840587def2510ec99e",
+        "android_client_info": {
+          "package_name": "com.example.devsinc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSx5XKGGJ-k9Mo_P4tJDPRcUDJhUPlM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214977880251:android:51205588379310450ec99e",
+        "android_client_info": {
+          "package_name": "com.example.dumy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoSx5XKGGJ-k9Mo_P4tJDPRcUDJhUPlM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
